@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Shane Cunningham",
+  title: "IT Support Engineer",
+  description: "Portfolio website of Shane Cunningham",
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
     linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    twitter: "https://x.com/shanecunningham",
+    github: "https://github.com/shanecunningham",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "ICT / IT support engineer with 9+ years’ experience across field service and multi‑site support, specialising in Microsoft 365 (expert M365 Admin Center), Intune endpoint management and Microsoft Enterprise Identity. Designs, implements and supports networks, manages Windows Server and client environments, and delivers clear, patient, customer‑focused support to users at all technical levels.",
+  skills: ["Microsoft Intune", "Microsoft 365", "Microsoft Entra ID", "Endpoint Manager", "AWS", "Docker"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -37,13 +37,14 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Stryve Secure(Sleepless)",
+      title: "IT support engineer",
+      dateRange: "Jan 2019 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Managing the end-to-end lifecycle of on-site IT infrastructure, ensuring systems are robust, secure, and built for long-term stability.",
+        "Acting as the primary point of contact for complex field assignments, often resolving critical hardware and networking issues under tight deadlines.",
+        "Deploying a \"problem-solving first\" approach to IT support, using years of site experience to anticipate issues before they cause downtime.",
+        "Collaborating with cross-functional teams to integrate new software solutions into existing physical environments"
       ],
     },
     {
